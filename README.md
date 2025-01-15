@@ -16,7 +16,7 @@ If you’re hiring or know of opportunities, feel free to [reach out to me](mail
 ### [E-Commerce Store Platform](https://github.com/wongvc92/nextjs-ecom-store)
 A full-stack e-commerce application built with React, Next.js, PostgreSQL, and JWT authentication.
 
-### [E-Commerce Store Platform](https://github.com/wongvc92/nextjs-ecom-admin)
+### [E-Commerce Admin Platform](https://github.com/wongvc92/nextjs-ecom-admin)
 A full-stack e-commerce application built with React, Next.js, PostgreSQL, and JWT authentication.
 
 ### [Social Media App](https://github.com/wongvc92/onlyfriends)
